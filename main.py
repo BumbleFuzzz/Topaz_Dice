@@ -231,5 +231,5 @@ async def cmdhelp(ctx):
 
 
 
-bot.run('MTA5MTQ3Nzg4NzM5NzQxNzA0MA.GCelNa.tTrF2PdTD6mYvtbUDluW7NtUNPuFio1OtjV30E')
+bot.run('BOT_TOKEN')
 
